@@ -1,6 +1,12 @@
-.test {
-	text-align: center;
-	&_box{
+body{
+	margin: 0;
+	font-size: 16px;
+	overflow: hidden;
+}
+
+.menu{
+	padding: 0;
+	&_list{
 		margin: 0;
 	}
 }
