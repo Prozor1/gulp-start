@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Prozor1/gulp-start#readme",
   "devDependencies": {
     "browser-sync": "^2.27.10",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
@@ -121,7 +121,7 @@
     "glob": "^7.2.3",
     "glob-parent": "^6.0.2",
     "glob-stream": "^7.0.0",
-    "glob-watcher": "^2.0.0",
+    "glob-watcher": "^5.0.5",
     "global-modules": "^1.0.0",
     "global-prefix": "^1.0.2",
     "glogg": "^1.0.2",
